@@ -6,17 +6,22 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To install phyloNEON, you will need the `devtools` package:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   library(devtools)
 
-Creating recipes
-----------------
+   install_github("NEONScience/phyloNEON/phyloNEON")
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+
+
+Accessing and using NEON genetic data 
+-------------------------------------
+
+NEON offers several data products that include genetic data. This repository is being developed to include tools and guidelines to help users of NEON data to better utilize the genetic data. 
+
+
 
 .. autofunction:: lumache.get_random_ingredients
 
