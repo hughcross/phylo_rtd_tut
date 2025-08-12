@@ -21,19 +21,18 @@ Accessing and using NEON genetic data
 
 NEON offers several data products that include genetic data. This repository is being developed to include tools and guidelines to help users of NEON data to better utilize the genetic data. 
 
+NEON metagenomic data
+^^^^^^^^^^^^^^^^^^^^^
+
+DNA is extracted from NEON soil and aquatic samples and sequenced with a shotgun sequence library prep. Through collaborations with the Joint Genome Institute (JGI) and the National Microbime Collaborative Network (NMDC), most of the metagenomic sequencing data are available on the data portals of these organizations. Connections to these external data sources are being built into NEON data releases. The phyloNEON package also offers some tools and guidelines to help the user find and analyze NEON metagenomic data on the JGI/NMDC data portals. 
+
+[This page on the repo](docs/metagenomic/README.md) (in `docs/metagenomic/README.md`) will help you get started
 
 
-.. autofunction:: lumache.get_random_ingredients
+NEON microbe taxonomy data
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+The phyloNEON package has tools to help convert data from the Microbe Community Taxonomy (MCT) data products into formats for import into popular metabarcoding tools, such as phyloseq and Qiime. 
 
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+[See these instructions on downloading and converting NEON samples](docs/microbeTaxonomy/README.md). (in `docs/microbeTaxonomy/README.md`) 
 
