@@ -47,7 +47,7 @@ You should see the taxon oid page open:
 
 You can also search the **neon.metaDB** database to find lists of samples that you would like to explore on the IMG data portal. 
 
-For example, if you want to find NEON samples from the **BONA** site that have ten or more bins, you can use the `tidyverse <https://www.tidyverse.org/`__ package to filter the database:
+For example, if you want to find NEON samples from the **BONA** site that have ten or more bins, you can use the `tidyverse <https://www.tidyverse.org/>`__ package to filter the database:
 
 
 .. code-block:: console
@@ -84,7 +84,7 @@ As a little more involved example, if you wanted to bring up the webpages for al
     length(query2) 
     # [1]  7
 
-    # open the pages for each site. Note here the query is a vector so we do not have to input query2$dnaSampleID
+    # open the pages \for each site. Note here the query is a vector so we \do not have to input query2$dnaSampleID
     openIMG(query2)
 
 
