@@ -1,7 +1,7 @@
 Welcome to phyloNEON!
 ===================================
 
-.. image:: /images/phyloNEON_logo2.png
+.. image:: ../../images/phyloNEON_logo2.png
 
 
 **phyloNEON** is a set of tools in R and Python to run phylogenetic and taxonomic analyses on NEON genetic and related data
