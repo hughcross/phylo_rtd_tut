@@ -22,4 +22,5 @@ Contents
 
    usage
    metagenomics
+   microbeTaxonomy
    api
