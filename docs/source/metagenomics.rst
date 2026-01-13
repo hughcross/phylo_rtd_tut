@@ -133,4 +133,20 @@ Here is how you can filter the table for the co-assemblies and access. The **dna
 These examples should help you get started. Please open an issue on this repo if you have questions
 
 
+Genomes Online Database (GOLD)
+------------------------------
+
+The Genomes Online Database is a web resource for comprehensive access to information regarding genome and metagenome sequencing projects, and associated metadata. There are four main GOLD IDs associated with every NEON metagenome sample: GOLD Study ID, GOLD Biosample ID, GOLD Sequencing Project ID, and the GOLD Analysis Project ID.  
+
+NEON metagenome samples are split across three GOLD Study IDs: 
+
++---------------+-----------------------------------------------------------------------------------------------+-------------------------------------------+
+| GOLD Study ID | Study Name                                                                                    | NEON samples included                     |
++===============+===============================================================================================+===========================================+
+| Gs0166454     | Soil and water microbial communities from various NEON Field Sites across the United States   | Samples from CSP (2023-2024)              |
++---------------+-----------------------------------------------------------------------------------------------+-------------------------------------------+
+| Gs0161344     | Terrestrial soil microbial communities from various NEON sites located in USA and Puerto Rico | Samples from JGI pilot study              |
++---------------+-----------------------------------------------------------------------------------------------+-------------------------------------------+
+| Gs0144570     | Terrestrial soil microbial communities from various locations - NEON                          | All NEON legacy samples (2022 and before) |
++---------------+-----------------------------------------------------------------------------------------------+-------------------------------------------+
 

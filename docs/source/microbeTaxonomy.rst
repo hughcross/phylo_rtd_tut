@@ -1,10 +1,10 @@
-NEON microbe community taxonomy data
+NEON microbe community taxonomy (MCT)
 ======================================
 
 The initial functions of **phyloNEON** were developed to allow for converting data downloaded from NEON into formats that can easily be imported into other programs. Additional functions will be added, so watch this space. The first example below is to convert *Microbe Community Taxonomy* data into formats for importing into the popular R package `**Phyloseq** <https://joey711.github.io/phyloseq/>`__
 
 
-Importing NEON Microbe Community Taxonomy (MCT) data into phyloseq
+Importing NEON MCT data into phyloseq
 ------------------------------------------------------------------
 
 This example uses basic functions of **phyloNEON** to convert data downloaded using neonUtilities. This will start with a smaller dataset. Due to the increased sequencing output of NEON microbial data, the user is encouraged to begin with small sets of data, and then build from there. 
