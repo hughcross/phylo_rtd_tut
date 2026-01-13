@@ -140,13 +140,18 @@ The Genomes Online Database is a web resource for comprehensive access to inform
 
 NEON metagenome samples are split across three GOLD Study IDs: 
 
-+---------------+-----------------------------------------------------------------------------------------------+-------------------------------------------+
-| GOLD Study ID | Study Name                                                                                    | NEON samples included                     |
-+===============+===============================================================================================+===========================================+
-| Gs0166454     | Soil and water microbial communities from various NEON Field Sites across the United States   | Samples from CSP (2023-2024)              |
-+---------------+-----------------------------------------------------------------------------------------------+-------------------------------------------+
-| Gs0161344     | Terrestrial soil microbial communities from various NEON sites located in USA and Puerto Rico | Samples from JGI pilot study              |
-+---------------+-----------------------------------------------------------------------------------------------+-------------------------------------------+
-| Gs0144570     | Terrestrial soil microbial communities from various locations - NEON                          | All NEON legacy samples (2022 and before) |
-+---------------+-----------------------------------------------------------------------------------------------+-------------------------------------------+
++---------------+-----------------------------------------+-----------------------+
+| GOLD Study ID | Study Name                              | NEON samples included |
++===============+=========================================+=======================+
+| Gs0166454     | Soil and water microbial communities    | from CSP (2023-2024)  |
+|               | from various NEON Field Sites across    |                       |
+|               | the United States Samples               |                       |
++---------------+-----------------------------------------+-----------------------+
+| Gs0161344     | Terrestrial soil microbial communities  | JGI pilot study       |
+|               | from various NEON sites located in USA  |                       |
+|               | and Puerto Rico                         |                       |
++---------------+-----------------------------------------+-----------------------+
+| Gs0144570     | Terrestrial soil microbial communities  | All legacy samples    |
+|               | from various locations - NEON           |  (2022 and before)    |
++---------------+-----------------------------------------+-----------------------+
 
