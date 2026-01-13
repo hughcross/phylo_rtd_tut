@@ -1,3 +1,5 @@
+.. _mct-section:
+
 NEON microbe community taxonomy (MCT)
 ======================================
 

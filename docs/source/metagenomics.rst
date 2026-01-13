@@ -1,3 +1,5 @@
+.. _metagenomic-section:
+
 NEON metagenomic data
 ==========================================
 
@@ -140,6 +142,25 @@ The Genomes Online Database is a web resource for comprehensive access to inform
 
 NEON metagenome samples are split across three GOLD Study IDs: 
 
++---------------+-------------------------------------------+-----------------------------------------------------------------------------------------------------+
+| GOLD Study ID | NEON samples included                     | Study Name                                                                                          |
++===============+===========================================+=====================================================================================================+
+| `Gs0166454`_  | Samples from CSP (2023-2024)              | Soil and water microbial communities from various NEON Field Sites across the United States Samples |
++---------------+-------------------------------------------+-----------------------------------------------------------------------------------------------------+
+| `Gs0161344`_  | Samples from JGI pilot study              | Terrestrial soil microbial communities from various NEON sites located in USA and Puerto Rico       |
++---------------+-------------------------------------------+-----------------------------------------------------------------------------------------------------+
+| `Gs0144570`_  | All NEON legacy samples (2022 and before) | Terrestrial soil microbial communities from various locations - NEON                                |
++---------------+-------------------------------------------+-----------------------------------------------------------------------------------------------------+
+
+.. _Gs0166454: https://gold.jgi.doe.gov/study?id=Gs0166454
+
+.. _Gs0161344: https://gold.jgi.doe.gov/study?id=Gs0161344
+
+.. _Gs0144570: https://gold.jgi.doe.gov/study?id=Gs0144570
+
+
+other table 
+
 +---------------+-----------------------------------------+-----------------------+
 | GOLD Study ID | Study Name                              | NEON samples included |
 +===============+=========================================+=======================+
@@ -154,4 +175,5 @@ NEON metagenome samples are split across three GOLD Study IDs:
 | Gs0144570     | Terrestrial soil microbial communities  | All legacy samples    |
 |               | from various locations - NEON           |  (2022 and before)    |
 +---------------+-----------------------------------------+-----------------------+
+
 

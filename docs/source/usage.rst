@@ -26,8 +26,9 @@ NEON metagenomic data
 
 DNA is extracted from NEON soil and aquatic samples and sequenced with a shotgun sequence library prep. Through collaborations with the Joint Genome Institute (JGI) and the National Microbime Collaborative Network (NMDC), most of the metagenomic sequencing data are available on the data portals of these organizations. Connections to these external data sources are being built into NEON data releases. The phyloNEON package also offers some tools and guidelines to help the user find and analyze NEON metagenomic data on the JGI/NMDC data portals. 
 
-[This page on the repo](docs/metagenomic/README.md) (in `docs/metagenomic/README.md`) will help you get started
 
+
+To get started, see :ref:`metagenomic-section` 
 
 
 NEON microbe taxonomy data
@@ -35,5 +36,5 @@ NEON microbe taxonomy data
 
 The phyloNEON package has tools to help convert data from the Microbe Community Taxonomy (MCT) data products into formats for import into popular metabarcoding tools, such as phyloseq and Qiime. 
 
-[See these instructions on downloading and converting NEON samples](docs/microbeTaxonomy/README.md). (in `docs/microbeTaxonomy/README.md`) 
+To get started, see :ref:`mct-section` 
 
