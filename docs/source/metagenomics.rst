@@ -165,18 +165,18 @@ list table
     :widths: 20 20 60
     :header-rows: 1
 
-* - GOLD Study ID
-  - NEON samples included 
-  - Study Name 
-* - Gs0166454
-  - from CSP (2023-2024)
-  - Soil and water microbial communities from various NEON Field Sites across the United States Samples
-* - Gs0161344
-  - JGI pilot study
-  - Terrestrial soil microbial communities from various NEON sites located in USA and Puerto Rico
-* - Gs0144570
-  - All NEON legacy samples (2022 and before)
-  - Terrestrial soil microbial communities from various locations - NEON 
+    * - GOLD Study ID
+    - NEON samples included 
+    - Study Name 
+    * - Gs0166454
+    - from CSP (2023-2024)
+    - Soil and water microbial communities from various NEON Field Sites across the United States Samples
+    * - Gs0161344
+    - JGI pilot study
+    - Terrestrial soil microbial communities from various NEON sites located in USA and Puerto Rico
+    * - Gs0144570
+    - All NEON legacy samples (2022 and before)
+    - Terrestrial soil microbial communities from various locations - NEON 
 
 
 
