@@ -166,17 +166,41 @@ list table
     :header-rows: 1
 
     * - GOLD Study ID
-    - NEON samples included 
-    - Study Name 
+      - NEON samples included 
+      - Study Name 
     * - Gs0166454
-    - from CSP (2023-2024)
-    - Soil and water microbial communities from various NEON Field Sites across the United States Samples
+      - from CSP (2023-2024)
+      - Soil and water microbial communities from various NEON Field Sites across the United States Samples
     * - Gs0161344
-    - JGI pilot study
-    - Terrestrial soil microbial communities from various NEON sites located in USA and Puerto Rico
+      - JGI pilot study
+      - Terrestrial soil microbial communities from various NEON sites located in USA and Puerto Rico
     * - Gs0144570
-    - All NEON legacy samples (2022 and before)
-    - Terrestrial soil microbial communities from various locations - NEON 
+      - All NEON legacy samples (2022 and before)
+      - Terrestrial soil microbial communities from various locations - NEON 
 
+board games table example 
 
+.. list-table:: Board games
+  :widths: 20 15 65
+  :header-rows: 1
 
+  * - Name
+    - Number of players
+    - Description
+  * - Catan
+    - 3 to 4
+    - Players take on the roles of settlers, each attempting to build and
+      develop holdings while trading and acquiring resources. Players gain
+      victory points as their settlements grow and the first to reach a set
+      number of victory points, typically 10, wins.
+  * - Ticket to Ride
+    - 2 to 5
+    - Players collect and play train car cards to claim train routes across the
+      map. Points are earned based on the length of the claimed routes, whoever
+      completes the longest continuous railway, and whether the player can
+      connect distant cities which are determined by drawing ticket cards.
+  * - Chess
+    - 2
+    - An abstract strategy game that involves no hidden information and no
+      elements of chance. Today, chess is one of the world's most popular games
+      played by millions of people worldwide.
